@@ -331,11 +331,16 @@ img {
   width: 80%;
 }
 .skills__m-c {
-  width: 80%;
+  width: 75%;
 }
 .skills__img {
-  border-radius: 0.5rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 350px;
+  border-radius: 2rem;
 }
+
 .work {
   text-align: center;
 }
